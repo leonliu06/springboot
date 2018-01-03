@@ -23,6 +23,16 @@
     <version>1.5.8.RELEASE</version>
   </parent>
 
+
+  <properties>
+
+    <!-- 修改默认编译级别为java1.7 -->
+    <java.version>1.7</java.version>
+
+
+
+  </properties>
+
   <dependencies>
 
     <!-- spring-boot-starter-web 依赖用于开发一个web应用 -->
